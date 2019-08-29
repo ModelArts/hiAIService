@@ -1,2 +1,2 @@
 # hiAIService
-hiAI Service
+AI Architecture for China Infrastructure
